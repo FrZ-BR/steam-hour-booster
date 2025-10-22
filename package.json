@@ -26,7 +26,7 @@
     "@total-typescript/ts-reset": "^0.6.1",
     "@tsconfig/bun": "^1.0.7",
     "@tsconfig/strictest": "^2.0.5",
-    "@types/steam-user": "^5.0.4",
+    "@types/steam-user": "5.1.0",
     "@types/bun": "^1.2.14"
   },
   "peerDependencies": {
