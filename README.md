@@ -68,7 +68,7 @@ Edit the configuration file to your liking.
 You can add as many accounts as you want.
 
 The `games` array contains the IDs of the games you want to farm hours for. Game IDs can be found on [SteamDB](https://steamdb.info/).\
-I believe the maximum amount of games you can play at once on a single account is **32**.
+You can play up to **32** games at the same time on a single account.
 
 You can also add `"online": true` to make the account appear online & in-game while farming hours. This is disabled by default.
 
